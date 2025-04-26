@@ -1,6 +1,6 @@
 # Big Data Pipeline for Real-Time Multi-Source Breast Cancer Risk Analysis
 
-![Memory Usage Comparison](images/memory_graph.jpeg)
+![Memory Usage Comparison](memory_graph.jpeg)
 
 ---
 
